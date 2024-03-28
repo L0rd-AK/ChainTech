@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/wrk8fzr/course-1-removebg-preview.png",
+        "backGround":"#2D45E6"
+    },
+    {
+        "id":"2",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/26X8J65/course-2-removebg-preview.png",
+        "backGround":"#2BFF8A"
+    },
+    {
+        "id":"3",
+        "title":"Motion Graphic",
+        "img":"https://i.ibb.co/TWzyTML/course-3-removebg-preview.png",
+        "backGround":"#00F0FF"
+    },
+    {
+        "id":"4",
+        "title":"Security AAS",
+        "img":"https://i.ibb.co/KmCnHXB/course-4-removebg-preview.png",
+        "backGround":"#FC5959"
+    },
+    {
+        "id":"5",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/wrk8fzr/course-1-removebg-preview.png",
+        "backGround":"#2D45E6"
+    },
+    {
+        "id":"6",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/26X8J65/course-2-removebg-preview.png",
+        "backGround":"#2BFF8A"
+    },
+    {
+        "id":"7",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/TWzyTML/course-3-removebg-preview.png",
+        "backGround":"#00F0FF"
+    },
+    {
+        "id":"8",
+        "title":"Blockchain Development",
+        "img":"https://i.ibb.co/KmCnHXB/course-4-removebg-preview.png",
+        "backGround":"#2D45E6"
+    }
+    
+]
