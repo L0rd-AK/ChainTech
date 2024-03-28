@@ -13,6 +13,7 @@ const Navbar = () => {
                         </div>
                          {/* ========================== nav items for mobile view ========================== */}
                         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-black rounded-box w-52">
+                            {/* ========================== NavLink a react-router-dom element ========================== */}
                             <NavLink to='/'><li><a>Company</a></li></NavLink>
                             <NavLink to='/service'><li><a>Service</a></li></NavLink>
                             <NavLink to='/business-model'><li><a>Business Models</a></li></NavLink>

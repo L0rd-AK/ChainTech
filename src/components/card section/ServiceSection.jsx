@@ -25,6 +25,7 @@ const ServiceSection = () => {
             <div className="grid grid-cols-1 lg:grid-cols-4 gap-5 my-10 mx-5">
                 {/* ====================== showing every card dynamicaly, so we dont have to repete code ====================== */}
                 {
+                    // ====================== we are mapping through every card element ==================
                     card.map(i=><Card card={i} key={i.id} />)
                 }
             </div>
